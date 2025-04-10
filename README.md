@@ -62,7 +62,7 @@ The program visualizes elements by:
 1.  Clone the repository:
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/JeevanEG/Computer-Graphics.git
     ```
 
 2.  Compile the code (example using GCC):
